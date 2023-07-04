@@ -1,5 +1,5 @@
 # CaptchaSolver
-6 or 7 letter captcha solver using convolution layers and lstm cells\
+6 or 7 letter captcha solver using convolution layers and lstm cells.
 
 Model is combination of convolutions and LSTM cells.\
 Model trained on 1000 labeled images.
